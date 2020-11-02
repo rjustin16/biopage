@@ -1,0 +1,32 @@
+
+body{
+    background-color: grey;
+}
+h1{
+    color: teal;
+}
+.container{
+    background-color: white;
+    margin-top: 10px;
+    justify-content: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+
+.col-md-6{
+ margin-top: 10px;
+ margin-bottom: 10px;
+}
+.col-sm-12{
+ padding: 10px;
+ margin: 5px, 5px, 5px, 5px;
+ justify-content: center;
+}
+
+button{
+    background-color: teal;
+    color: white;
+    border: 0;
+    padding: 20px;
+}
