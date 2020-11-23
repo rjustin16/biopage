@@ -1,9 +1,9 @@
 
 body{
-    background-color: grey;
+    background-color: rgba(153, 182, 187, 0.377);
 }
 h1{
-    color: teal;
+    color: rgb(56, 179, 179);
 }
 
 .container{
@@ -12,17 +12,18 @@ h1{
     justify-content: center;
     padding: 20px;
     margin-bottom: 20px;
+    border-radius: 3rem;
 }
 
 
 .col-md-6{
- margin-top: 10px;
- margin-bottom: 10px;
+ /* margin-top: 10px;
+ margin-bottom: 10px; */
  justify-content: center;
 }
 .col-sm-12{
- padding: 10px;
- margin: 5px, 5px, 5px, 5px;
+ /* padding: 10px;
+ margin: 5px, 5px, 5px, 5px; */
  justify-content: center;
 }
 
@@ -31,4 +32,9 @@ button{
     color: white;
     border: 0;
     padding: 20px;
+    border-radius: 3rem;
+}
+img{
+    max-width: 300px;
+    max-height: 300px;
 }
