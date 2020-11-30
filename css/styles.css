@@ -1,7 +1,7 @@
 
-body{
+/* body{
     background-color: rgba(153, 182, 187, 0.377);
-}
+} */
 h1{
     color: rgb(56, 179, 179);
 }
@@ -35,7 +35,7 @@ button{
     padding: 20px;
     border-radius: 3rem;
 }
-img{
+/* img{
     max-width: 300px;
     max-height: 300px;
-}
+} */
